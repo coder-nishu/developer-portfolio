@@ -4,3 +4,25 @@ body{
 h2 h1{
     font-size: 50px;
 }
+.name{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.heading{
+    width: 50%;
+    padding-left: 2%;
+}
+.images{
+    width: 50%;
+}
+.btn{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    border-radius: 10px;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 20px;
+    margin: 10px 25%;
+}
