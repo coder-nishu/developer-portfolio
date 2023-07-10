@@ -1,5 +1,5 @@
 body{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Bacasime Antique', serif;
     margin: 0px;
 }
 
@@ -8,11 +8,13 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 7%;
 }
 .heading{
     width: 50%;
     padding-left: 10%;
     font-size: 15px;
+    margin-bottom: 10%;
     
 
 }
