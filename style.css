@@ -3,10 +3,10 @@ body{
     margin: 0px;
 }
 
-.name{
+.orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 3%;
     border-bottom: 4px dashed #bbb;
@@ -62,4 +62,13 @@ section{
     margin-bottom: 10px; */
     margin-right: 10%;
 
+}
+.experience-area-banner{
+    width: 50%;
+    padding-left: 5%;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.ex-box-shadow{
+    box-shadow: 10px 10px 40px grey;
 }
