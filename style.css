@@ -65,12 +65,34 @@ body{
     margin-right: 10%;
 
 }
-.experience-area-banner{
-    width: 50%;
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+   background-position: top left;
+   background-repeat: no-repeat;
+}
+
+.ex-box-shadow{
     padding-left: 5%;
     font-size: 15px;
     margin-bottom: 10px;
-}
-.ex-box-shadow{
     box-shadow: 10px 10px 40px grey;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+  
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, yellow) ;
+    border-image-slice: 1;
+}
+#junior {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan) ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
 }
